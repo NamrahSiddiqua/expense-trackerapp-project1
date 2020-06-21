@@ -1,4 +1,4 @@
-import React, { useState, useContext } from 'react';
+/*import React, { useState, useContext } from 'react';
 
 export const AddTransaction = () => {
     return (
@@ -32,5 +32,4 @@ export const AddTransaction = () => {
                 <button className="btn">Add Transaction</button>
             </form>
         </div>
-    )
-}
+    ) */
