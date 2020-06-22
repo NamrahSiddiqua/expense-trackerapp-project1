@@ -30,7 +30,7 @@ export const AddTransaction = () => {
             <form onSubmit={onSubmit}>
                 <div className="form-control">
                     <label htmlFor="description">
-                        Description (Salary, Grocery etc)
+                         Description (Salary, Grocery etc)
                     </label>
                     <input  type="text" 
                             id="description"
@@ -42,7 +42,7 @@ export const AddTransaction = () => {
                 </div>
                 <div className="form-control">
                     <label htmlFor="transactionamount">
-                        Transaction Amount (Income +, Expense -)
+                         Transaction Amount (Income +, Expense - )
                     </label>
                     <input  type="number" 
                             id="transactionamount"
