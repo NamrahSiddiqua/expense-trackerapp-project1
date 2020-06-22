@@ -9,7 +9,7 @@
 }
 
 body {
-  background-image: url(BGimage.png);
+  background-image: url(bgimage.jpg);
   height: 100%;
   background-position: center;
   background-size: auto;
@@ -25,9 +25,11 @@ body {
 }
 
 .container {
-
   margin: 30px auto;
   width: 350px;
+  background-color: #fdfdfd67;
+  padding: 50px;
+  padding-bottom: 10px;
 }
 
 h1 {
