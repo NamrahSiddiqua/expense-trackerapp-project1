@@ -76,8 +76,6 @@ h4 {
 }
 
 .bgcontainer > div:first-of-type {
-  border-right: 2px solid #E69A8DFF;
-  border-left: 2px solid #E69A8DFF;
   margin: auto;
   width: 60%;
   border: 3px solid rgb(170, 115, 105);

@@ -36,7 +36,7 @@ export const AddTransaction = () => {
                             id="description"
                             value={description}
                             onChange={(e) => setDescription(e.target.value)}
-                            placeholder="Detail of Transaction" 
+                            placeholder="Enter Detail of Transaction" 
                             required="required"
                     />
                 </div>
@@ -48,7 +48,7 @@ export const AddTransaction = () => {
                             id="transactionamount"
                             value={transactionAmount}
                             onChange={(e) => setTransactionAmount(e.target.value)}
-                            placeholder="Ruppee Value of Transaction"
+                            placeholder="Enter Ruppee Value of Transaction"
                             required="required"
                     />
                 </div>
